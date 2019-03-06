@@ -22,5 +22,7 @@
 
 ### Image 001240
 
+#### RGB
+
 ![rgb_3d_001240](https://user-images.githubusercontent.com/34116562/53856769-75f66780-3ff9-11e9-9e6d-0b118175eb54.png)
 ![hsv_3d_001240](https://user-images.githubusercontent.com/34116562/53856772-7989ee80-3ff9-11e9-810b-89f0931921da.png)
