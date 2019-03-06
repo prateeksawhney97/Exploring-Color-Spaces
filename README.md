@@ -15,7 +15,9 @@
 #### RGB
 
 ![rgb_3d_000528](https://user-images.githubusercontent.com/34116562/53856607-9b36a600-3ff8-11e9-94fe-55168a2387f0.png)
-![hsv_3d_000528](https://user-images.githubusercontent.com/34116562/53856609-9f62c380-3ff8-11e9-87ff-b84bc025ed3d.png)
 
+#### HSV
+
+![hsv_3d_000528](https://user-images.githubusercontent.com/34116562/53856609-9f62c380-3ff8-11e9-87ff-b84bc025ed3d.png)
 
 ### Image 001240
