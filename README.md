@@ -40,6 +40,9 @@
 #### RGB
 
 ![rgb_3d_25](https://user-images.githubusercontent.com/34116562/53948484-e979a100-40ed-11e9-87a7-3356cd2fec6f.png)
+
+#### HSV
+
 ![hsv_3d_25](https://user-images.githubusercontent.com/34116562/53948491-ee3e5500-40ed-11e9-924d-847e1c9d1124.png)
 
 ### Image 31
@@ -47,6 +50,9 @@
 #### RGB
 
 ![rgb_3d_31](https://user-images.githubusercontent.com/34116562/53948521-01512500-40ee-11e9-8c22-8bbfcaa7934b.png)
+
+#### HSV
+
 ![hsv_3d_31](https://user-images.githubusercontent.com/34116562/53948526-057d4280-40ee-11e9-9b76-61c14971d285.png)
 
 ### Image 53
@@ -54,6 +60,9 @@
 #### RGB
 
 ![rgb_3d_53](https://user-images.githubusercontent.com/34116562/53948591-2e053c80-40ee-11e9-99cf-a4b4343413e9.png)
+
+#### HSV
+
 ![hsv_3d_53](https://user-images.githubusercontent.com/34116562/53948597-31002d00-40ee-11e9-8d67-20036edee732.png)
 
 ### Image 2
@@ -61,6 +70,9 @@
 #### RGB
 
 ![rgb_3d_2](https://user-images.githubusercontent.com/34116562/53948610-38bfd180-40ee-11e9-8b9a-77b80b2df2e7.png)
+
+#### HSV
+
 ![hsv_3d_2](https://user-images.githubusercontent.com/34116562/53948623-3cebef00-40ee-11e9-9643-4ce1982b00d8.png)
 
 ### Image 3
@@ -68,6 +80,9 @@
 #### RGB
 
 ![rgb_3d_3](https://user-images.githubusercontent.com/34116562/53948704-6d338d80-40ee-11e9-970d-45b2c79b6614.png)
+
+#### HSV
+
 ![hsv_3d_3](https://user-images.githubusercontent.com/34116562/53948706-6f95e780-40ee-11e9-8f16-8581c3258fbc.png)
 
 ### Image 8
@@ -75,4 +90,7 @@
 #### RGB
 
 ![rgb_3d_8](https://user-images.githubusercontent.com/34116562/53948710-73296e80-40ee-11e9-835d-481f05e077c0.png)
+
+#### HSV
+
 ![hsv_3d_8](https://user-images.githubusercontent.com/34116562/53948720-7886b900-40ee-11e9-8268-75fa910f0746.png)
