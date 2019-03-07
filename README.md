@@ -40,6 +40,8 @@
 ![rgb_3d_25](https://user-images.githubusercontent.com/34116562/53948484-e979a100-40ed-11e9-87a7-3356cd2fec6f.png)
 ![hsv_3d_25](https://user-images.githubusercontent.com/34116562/53948491-ee3e5500-40ed-11e9-924d-847e1c9d1124.png)
 
+### Image 31
+
 ![rgb_3d_31](https://user-images.githubusercontent.com/34116562/53948521-01512500-40ee-11e9-8c22-8bbfcaa7934b.png)
 ![hsv_3d_31](https://user-images.githubusercontent.com/34116562/53948526-057d4280-40ee-11e9-9b76-61c14971d285.png)
 
